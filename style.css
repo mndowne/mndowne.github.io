@@ -1,8 +1,10 @@
 #home {
-  background: url("http://s17.postimg.org/m4bfqfgn3/fog_1005445_1920.jpg") no-repeat center center fixed;
+  background: url("http://i.huffpost.com/gen/1432095/images/o-EQUATION-facebook.jpg") no-repeat center center fixed;
   background-size: cover;
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
   text-align: center;
   height: 800px; }
+  #home h1 {
+    margin-top: 80px; }
 
 /*# sourceMappingURL=style.css.map */
