@@ -6,11 +6,13 @@
   height: 800px;
   color: #b4b4fa; }
   #home h1 {
+    font-family: "Michroma", sans-serif;
     margin-top: 80px; }
 
 #about {
   color: #282832; }
   #about h1 {
+    font-family: "Michroma", sans-serif;
     border-bottom: solid #282832; }
 
 /*# sourceMappingURL=style.css.map */
