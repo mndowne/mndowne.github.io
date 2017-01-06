@@ -19,11 +19,22 @@
     border-bottom: solid #282832; }
 
 #contact {
-  text-align: center;
   color: #282832; }
   #contact h1 {
     font-family: "Michroma", sans-serif;
     border-bottom: solid #282832; }
+  #contact p {
+    text-align: center; }
+
+#portfolio h1 {
+  font-family: "Michroma", sans-serif;
+  border-bottom: solid #282832; }
+#portfolio p {
+  text-align: center; }
+
+.thumbnail h4 {
+  font-family: "Michroma", sans-serif;
+  border-bottom: solid #282832; }
 
 #namebox {
   margin: auto;
