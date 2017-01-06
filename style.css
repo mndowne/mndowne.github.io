@@ -4,15 +4,36 @@
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
   text-align: center;
   height: 800px;
-  color: #d2d2fe; }
+  color: #c8d2fe; }
   #home h1 {
+    font-size: 250%;
     font-family: "Michroma", sans-serif;
     margin-top: 80px; }
+  #home h4 {
+    font-size: 250%; }
 
 #about {
   color: #282832; }
   #about h1 {
     font-family: "Michroma", sans-serif;
     border-bottom: solid #282832; }
+
+#contact {
+  text-align: center;
+  color: #282832; }
+  #contact h1 {
+    font-family: "Michroma", sans-serif;
+    border-bottom: solid #282832; }
+
+#namebox {
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 380px;
+  height: 100px;
+  z-index: 2; }
+  @media screen and (max-width: 450px) {
+    #namebox {
+      width: 230px;
+      height: 170px; } }
 
 /*# sourceMappingURL=style.css.map */
