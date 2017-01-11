@@ -47,4 +47,25 @@
       width: 230px;
       height: 170px; } }
 
-/*# sourceMappingURL=style.css.map */
+.portfolioSpot {
+  min-height: 500px;
+  }
+  @media screen and (max-width: 950px) {
+    .portfolioSpot {
+      min-height: 500px;
+      }
+  }
+      @media screen and (max-width: 650px) {
+        .portfolioSpot {
+          min-height: 500px;
+          }
+      }
+          @media screen and (max-width: 450px) {
+            .portfolioSpot {
+              min-height: 300px;
+              }
+          }
+
+
+
+
